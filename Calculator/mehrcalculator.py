@@ -80,5 +80,3 @@ class Calculator:
     Resets the calculator's memory to 0.
     """
     self.memory = 0
-
-# Add an empty __init__.py file to make it a package (optional but good practice)
